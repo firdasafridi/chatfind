@@ -1,0 +1,30 @@
+{"cat":"image_en","query":"children playing checkers","expected":["photos/photo_0061.jpg"]}
+{"cat":"image_en","query":"street musicians with a blue guitar and violin","expected":["photos/photo_0073.jpg"]}
+{"cat":"image_en","query":"guy drumming on buckets on the sidewalk","expected":["photos/photo_0081.jpg"]}
+{"cat":"image_en","query":"kid water skiing","expected":["photos/photo_0085.jpg"]}
+{"cat":"image_en","query":"boy holding a small lizard","expected":["photos/photo_0089.jpg"]}
+{"cat":"image_en","query":"photographing a baby wearing a pink hat","expected":["photos/photo_0097.jpg"]}
+{"cat":"image_en","query":"climbing rocks in the forest","expected":["photos/photo_0105.jpg"]}
+{"cat":"image_en","query":"man kicking a punching bag","expected":["photos/photo_0113.jpg"]}
+{"cat":"image_id","query":"anak-anak main dam","expected":["photos/photo_0061.jpg"]}
+{"cat":"image_id","query":"wanita baju biru melihat isi dompet","expected":["photos/photo_0065.jpg"]}
+{"cat":"image_id","query":"pengamen main gitar biru dan biola di jalan","expected":["photos/photo_0073.jpg"]}
+{"cat":"image_id","query":"anjing berlari menjulurkan lidah","expected":["photos/photo_0077.jpg","photos/photo_0001.jpg"]}
+{"cat":"image_id","query":"bocah main ski air","expected":["photos/photo_0085.jpg"]}
+{"cat":"image_id","query":"alat berat sedang bekerja di proyek","expected":["photos/photo_0101.jpg"]}
+{"cat":"image_id","query":"keluarga memancing di pinggir pantai","expected":["photos/photo_0109.jpg"]}
+{"cat":"image_id","query":"orang latihan tendang samsak","expected":["photos/photo_0113.jpg"]}
+{"cat":"doc","query":"retur produk promo boleh atau tidak","expected":["docs/Kebijakan_Pengembalian_Barang.pdf"]}
+{"cat":"doc","query":"berapa persen tiket yang memenuhi SLA","expected":["docs/Laporan_SLA_Agen_Agustus.pdf"]}
+{"cat":"doc","query":"agen tidak boleh minta kode OTP","expected":["docs/Panduan_Reset_Password.pdf"]}
+{"cat":"doc","query":"sunscreen spf 50 harganya","expected":["docs/Katalog_Skincare_Glowin.pdf"]}
+{"cat":"doc","query":"garansi tidak berlaku kalau kena banjir","expected":["docs/Kartu_Garansi_Kulkas.pdf"]}
+{"cat":"doc","query":"notice period to terminate the subscription contract","expected":["docs/Kontrak_Langganan_WhatsApp_API.pdf"]}
+{"cat":"doc","query":"sunset dinner jimbaran","expected":["docs/Bali_Offsite_Itinerary.pdf"]}
+{"cat":"doc","query":"kapan chatbot mulai live","expected":["docs/Notulen_Onboarding_Klien.pdf"]}
+{"cat":"ocr","query":"nota servis cvt dan kampas rem","expected":["receipts/nota_bengkel_motor.png"]}
+{"cat":"ocr","query":"receipt for cough syrup and vitamin c","expected":["receipts/struk_apotek.png"]}
+{"cat":"ocr","query":"berapa liter bensin yang diisi","expected":["receipts/struk_bensin.png"]}
+{"cat":"ocr","query":"belanja roti tawar","expected":["receipts/struk_minimarket.png"]}
+{"cat":"filter","query":"label pengiriman paket dari wa kemarin","expected":["docs/Label_Pengiriman_Kurir.pdf"]}
+{"cat":"filter","query":"invoice catering bulan ini dari email","expected":["docs/Invoice_Catering_Kantor.pdf"]}

@@ -1,0 +1,10 @@
+# Versions intentionally unpinned for POC — pin after first green run (pip freeze > requirements.lock)
+qdrant-client
+FlagEmbedding          # BGE-M3 (dense+sparse) + bge-reranker-v2-m3
+transformers
+torch
+pillow
+pytesseract            # needs system tesseract + `ind` language pack
+pypdf
+imagehash
+dateparser             # Indonesian/English relative dates -> filters

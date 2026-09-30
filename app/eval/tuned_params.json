@@ -1,0 +1,10 @@
+{
+ "t_temp": 0.5,
+ "t_bias": 0.0,
+ "i_temp": 0.5,
+ "i_bias": 0,
+ "ocr_w": 0.6,
+ "type_pen": 0.2,
+ "z_w": 0.0,
+ "vis_ocr_w": 0.3
+}

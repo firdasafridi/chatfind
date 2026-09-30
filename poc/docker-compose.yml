@@ -1,0 +1,8 @@
+# POC only: single-node Qdrant. Production: 3+ node cluster, API key from secret manager, TLS.
+services:
+  qdrant:
+    image: qdrant/qdrant:latest   # pin an exact tag before any shared environment
+    ports:
+      - "127.0.0.1:6333:6333"     # bound to localhost only
+    volumes:
+      - ./qdrant_data:/qdrant/storage

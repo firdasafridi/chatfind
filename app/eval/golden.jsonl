@@ -1,0 +1,73 @@
+{"cat":"image_en","query":"man with an orange hat and glasses","expected":["photos/photo_0000.jpg"]}
+{"cat":"image_en","query":"boston terrier running on grass","expected":["photos/photo_0001.jpg"]}
+{"cat":"image_en","query":"girl breaking boards karate","expected":["photos/photo_0002.jpg"]}
+{"cat":"image_en","query":"people going snowmobiling","expected":["photos/photo_0003.jpg"]}
+{"cat":"image_en","query":"workers repairing a roof","expected":["photos/photo_0004.jpg"]}
+{"cat":"image_en","query":"students outside an igloo in the snow","expected":["photos/photo_0006.jpg"]}
+{"cat":"image_en","query":"baseball catcher tagging a runner","expected":["photos/photo_0007.jpg"]}
+{"cat":"image_en","query":"woman giving a child a piggyback ride","expected":["photos/photo_0010.jpg"]}
+{"cat":"image_en","query":"beach volleyball","expected":["photos/photo_0011.jpg"]}
+{"cat":"image_en","query":"man sharpening a knife","expected":["photos/photo_0013.jpg"]}
+{"cat":"image_en","query":"girl on a balance beam","expected":["photos/photo_0015.jpg"]}
+{"cat":"image_en","query":"girl playing trumpet in marching band","expected":["photos/photo_0021.jpg"]}
+{"cat":"image_en","query":"woman in pink shirt cleaning a table","expected":["photos/photo_0025.jpg"]}
+{"cat":"image_en","query":"cutting tree branches","expected":["photos/photo_0026.jpg"]}
+{"cat":"image_en","query":"mountain biking in the woods","expected":["photos/photo_0030.jpg"]}
+{"cat":"image_en","query":"shopping at a fish market","expected":["photos/photo_0035.jpg"]}
+{"cat":"image_en","query":"woman playing a harp","expected":["photos/photo_0036.jpg"]}
+{"cat":"image_en","query":"shirtless man fishing","expected":["photos/photo_0039.jpg"]}
+{"cat":"image_en","query":"girl floating in a life vest","expected":["photos/photo_0040.jpg"]}
+{"cat":"image_en","query":"people riding the subway","expected":["photos/photo_0042.jpg","photos/photo_0117.jpg"]}
+{"cat":"image_id","query":"foto pria pakai topi oranye dan kacamata","expected":["photos/photo_0000.jpg"]}
+{"cat":"image_id","query":"anjing lari di rumput","expected":["photos/photo_0001.jpg"]}
+{"cat":"image_id","query":"anak perempuan karate mematahkan papan","expected":["photos/photo_0002.jpg"]}
+{"cat":"image_id","query":"tukang bekerja di atas atap","expected":["photos/photo_0004.jpg"]}
+{"cat":"image_id","query":"rumah igloo di salju","expected":["photos/photo_0006.jpg"]}
+{"cat":"image_id","query":"pertandingan bisbol","expected":["photos/photo_0007.jpg"]}
+{"cat":"image_id","query":"ibu menggendong anak di punggung","expected":["photos/photo_0010.jpg"]}
+{"cat":"image_id","query":"main voli di pantai","expected":["photos/photo_0011.jpg"]}
+{"cat":"image_id","query":"pria mengasah pisau","expected":["photos/photo_0013.jpg"]}
+{"cat":"image_id","query":"gambar anak main terompet di marching band","expected":["photos/photo_0021.jpg"]}
+{"cat":"image_id","query":"wanita baju pink membersihkan meja kayu","expected":["photos/photo_0025.jpg"]}
+{"cat":"image_id","query":"memotong dahan pohon","expected":["photos/photo_0026.jpg"]}
+{"cat":"image_id","query":"bersepeda di hutan","expected":["photos/photo_0030.jpg"]}
+{"cat":"image_id","query":"belanja di pasar ikan","expected":["photos/photo_0035.jpg"]}
+{"cat":"image_id","query":"perempuan main harpa","expected":["photos/photo_0036.jpg"]}
+{"cat":"image_id","query":"pria tanpa baju memancing","expected":["photos/photo_0039.jpg"]}
+{"cat":"image_id","query":"anak pakai pelampung di air","expected":["photos/photo_0040.jpg"]}
+{"cat":"image_id","query":"orang-orang di dalam kereta bawah tanah","expected":["photos/photo_0042.jpg","photos/photo_0117.jpg"]}
+{"cat":"image_id","query":"orang duduk di kafe luar ruangan","expected":["photos/photo_0033.jpg"]}
+{"cat":"image_id","query":"wanita pakai topi di kedai kopi","expected":["photos/photo_0017.jpg"]}
+{"cat":"doc","query":"bukti refund sepatu merah yang tidak muat","expected":["docs/INV-2026-0912_refund_sepatu.pdf"]}
+{"cat":"doc","query":"berapa hari batas maksimal retur barang","expected":["docs/Kebijakan_Pengembalian_Barang.pdf"]}
+{"cat":"doc","query":"prosedur kalau pelanggan marah mau viral","expected":["docs/SOP_Eskalasi_Komplain.pdf"]}
+{"cat":"doc","query":"harga serum vitamin c","expected":["docs/Katalog_Skincare_Glowin.pdf"]}
+{"cat":"doc","query":"resi paket blender ke bandung","expected":["docs/Label_Pengiriman_Kurir.pdf"]}
+{"cat":"doc","query":"kontrak whatsapp api berapa lama","expected":["docs/Kontrak_Langganan_WhatsApp_API.pdf"]}
+{"cat":"doc","query":"rata-rata waktu respon agen bulan agustus","expected":["docs/Laporan_SLA_Agen_Agustus.pdf"]}
+{"cat":"doc","query":"quotation pembelian laptop untuk kantor","expected":["docs/Penawaran_Harga_Laptop_Kantor.pdf"]}
+{"cat":"doc","query":"customer lupa password gimana caranya","expected":["docs/Panduan_Reset_Password.pdf"]}
+{"cat":"doc","query":"kode voucher diskon harbolnas","expected":["docs/Script_Broadcast_Promo_1212.pdf"]}
+{"cat":"doc","query":"tagihan nasi kotak makan siang","expected":["docs/Invoice_Catering_Kantor.pdf"]}
+{"cat":"doc","query":"garansi kompresor kulkas","expected":["docs/Kartu_Garansi_Kulkas.pdf"]}
+{"cat":"doc","query":"paket gagal kirim karena penerima tidak ada di rumah","expected":["docs/Jadwal_Pengiriman_Ulang.pdf"]}
+{"cat":"doc","query":"sudah bayar VA tapi status belum lunas","expected":["docs/FAQ_Pembayaran_Virtual_Account.pdf"]}
+{"cat":"doc","query":"hasil meeting kickoff klien baru chatbot","expected":["docs/Notulen_Onboarding_Klien.pdf"]}
+{"cat":"doc","query":"company trip schedule to bali","expected":["docs/Bali_Offsite_Itinerary.pdf"]}
+{"cat":"doc","query":"can customers ask us to delete their personal data","expected":["docs/Privacy_Notice_Data_Processing.pdf"]}
+{"cat":"doc","query":"broken vase arrived in crushed box","expected":["docs/Damaged_Package_Claim_Form.pdf"]}
+{"cat":"doc","query":"tagihan PLN kantor bulan september","expected":["docs/Tagihan_Listrik_Kantor.pdf"]}
+{"cat":"doc","query":"harga kopi susu gula aren","expected":["docs/Menu_Kafe_Senja.pdf"]}
+{"cat":"ocr","query":"struk belanja susu dan telur","expected":["receipts/struk_minimarket.png"]}
+{"cat":"ocr","query":"struk isi bensin pertamax","expected":["receipts/struk_bensin.png"]}
+{"cat":"ocr","query":"bukti transfer pembayaran sepatu","expected":["receipts/bukti_transfer_bank.png"]}
+{"cat":"ocr","query":"nota ganti oli motor","expected":["receipts/nota_bengkel_motor.png"]}
+{"cat":"ocr","query":"struk beli croissant","expected":["receipts/struk_kopi.png"]}
+{"cat":"ocr","query":"karcis parkir mall","expected":["receipts/tiket_parkir_mall.png"]}
+{"cat":"ocr","query":"struk beli obat paracetamol","expected":["receipts/struk_apotek.png"]}
+{"cat":"ocr","query":"bukti perjalanan ojol ke kuningan","expected":["receipts/resi_ojek_online.png"]}
+{"cat":"filter","query":"invoice refund minggu lalu","expected":["docs/INV-2026-0912_refund_sepatu.pdf"]}
+{"cat":"filter","query":"bukti transfer via wa kemarin","expected":["receipts/bukti_transfer_bank.png"]}
+{"cat":"filter","query":"penawaran laptop dari email","expected":["docs/Penawaran_Harga_Laptop_Kantor.pdf"]}
+{"cat":"filter","query":"foto struk minimarket","expected":["receipts/struk_minimarket.png"]}
+{"cat":"filter","query":"klaim paket rusak minggu lalu lewat email","expected":["docs/Damaged_Package_Claim_Form.pdf"]}

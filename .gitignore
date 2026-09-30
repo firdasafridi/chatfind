@@ -1,0 +1,56 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Node / web build
+node_modules/
+app/web/dist/
+app/web/coverage/
+*.tsbuildinfo
+.pnpm-store/
+.vite/
+
+# Playwright output (reports, traces, screenshots from failed runs)
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.playwright-cli/
+
+# Model weights: several GB, downloaded from Hugging Face (see README)
+models/
+
+# Runtime state: embedded Qdrant, SQLite chunk store, server logs
+app/.state/
+.state/
+*.log
+
+# Demo corpus. Flickr-1k photos are research-use only and must not be redistributed;
+# rebuild with eval/fetch_images.py and eval/seed_docs.py.
+app/data/
+app/eval/captions.json
+
+# Eval outputs are rewritten on every run
+app/eval/last_eval*.json
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Company-internal docs, never pushed
+internal/

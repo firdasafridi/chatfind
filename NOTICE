@@ -1,0 +1,20 @@
+chatfind
+Copyright 2026 chatfind contributors
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It downloads and runs the following third-party models and tools, which are
+not included in this repository and keep their own licenses:
+
+- Helsinki-NLP/opus-mt-id-en, CC-BY-4.0. Attribution: Tiedemann, J. and
+  Thottingal, S., "OPUS-MT: Building open translation services for the World",
+  EAMT 2020. Language Technology Research Group, University of Helsinki.
+- BAAI/bge-m3, MIT, Beijing Academy of Artificial Intelligence.
+- BAAI/bge-reranker-v2-m3, Apache-2.0, Beijing Academy of Artificial Intelligence.
+- intfloat/multilingual-e5-small, MIT.
+- cross-encoder/mmarco-mMiniLMv2-L12-H384-v1, Apache-2.0.
+- Google SigLIP 2 (google/siglip2-base-patch16-256), Apache-2.0, Google LLC.
+- Tesseract OCR, Apache-2.0.
+
+Evaluation photos come from the Flickr-1k test split. They are for research use
+only and are not included or redistributed.
